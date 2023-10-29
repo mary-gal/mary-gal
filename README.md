@@ -11,4 +11,8 @@ Let's connect and explore how I can add value to your team!
 
 [![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=mary-gal&rank_icon=github&theme=transparent)](https://github.com/mary-gal/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mary-gal&layout=donut-vertical&theme=transparent)](https://github.com/mary-gal/github-readme-stats)
+Languages:
+
+<img src="https://github.com/mary-gal/mary-gal/assets/125677584/1a9c30b1-6964-493c-a776-eb9b2e513215" width="48">
+<img src="https://github.com/mary-gal/mary-gal/assets/125677584/cb02d079-2a57-49c1-9ecf-bb6e0631ce5b" width="48">
+<img src="https://github.com/mary-gal/mary-gal/assets/125677584/e0173772-eaf8-48f6-82fb-689f092d7239" width="48">
