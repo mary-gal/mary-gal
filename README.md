@@ -8,3 +8,7 @@ contribute to data-driven solutions that propel organizations forward.
 Let's connect and explore how I can add value to your team!
 
 :mailbox: Reach me at marycgaleano@gmail.com or send me a message on LinkedIn!
+
+[![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=mary-gal&rank_icon=github&theme=transparent)](https://github.com/mary-gal/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mary-gal&layout=donut-vertical&theme=transparent)](https://github.com/mary-gal/github-readme-stats)
